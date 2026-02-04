@@ -1,4 +1,4 @@
-# Creating Core List Views for HHD Incidents
+# Creating Core List Views for Incidents
 
 ## Overview
 This repository demonstrates how to configure a custom Incident list view and application menu structure in ServiceNow to support monitoring HHD (Holographic Handheld Devices) incidents and inquiries.
